@@ -111,7 +111,7 @@ Type this query into the search bar to start seeing logs coming from Windows end
 
 Test Sysmon
 
-<img width="949" height="512" alt="Screenshot 2026-05-04 120318" src="https://github.com/user-attachments/assets/86e2882a-b5be-4627-b30f-82fad5fa9719" />
+<img width="949" height="512" alt="Screenshot 2026-05-04 120318" src="https://github.com/user-attachments/assets/86e2882a-b5be-4627-b30f-82fad5fa9719" /><br><br>
 
 
 -Start and stop splunkforwarder
