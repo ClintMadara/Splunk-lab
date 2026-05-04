@@ -78,7 +78,8 @@ Receiving Indexer IP: The splunk server (192.168.10.3) on port 9997
 
 Make sure that SplunkForwarder service is Running
 
-![Screenshot 2026-05-04 111033.png](attachment:0aa1457b-a43e-43f4-ac13-799dc4096668:Screenshot_2026-05-04_111033.png)
+<img width="898" height="641" alt="Screenshot 2026-05-04 111033" src="https://github.com/user-attachments/assets/3f1f4a69-ae56-4558-8bd0-d9cf883066c5" />
+
 
 ## **Add Windows Event Logs**
 
