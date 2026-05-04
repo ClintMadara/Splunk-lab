@@ -104,18 +104,20 @@ Add this config to the file
 
 Type this query into the search bar to start seeing logs coming from Windows endpoint (DESKTOP-5CR0NHB)
 
-<img width="1208" height="822" alt="Screenshot 2026-05-04 113404" src="https://github.com/user-attachments/assets/ac4c7deb-9c70-4cb4-a7fc-194f3234e4f3" />
+<img width="1213" height="816" alt="Screenshot 2026-05-04 113429" src="https://github.com/user-attachments/assets/a0e3c280-7eaa-4551-93d3-9b14167a1127" />
 
 
 ## Install SYSMON
 
 Test Sysmon
 
-![image.png](attachment:bb48eb92-d82b-493f-a51a-9676a75e2bc6:image.png)
+<img width="949" height="512" alt="Screenshot 2026-05-04 120318" src="https://github.com/user-attachments/assets/86e2882a-b5be-4627-b30f-82fad5fa9719" />
+
 
 -Start and stop splunkforwarder
+<img width="662" height="325" alt="Screenshot 2026-05-04 112820" src="https://github.com/user-attachments/assets/24e87662-4d8d-4b27-905a-637f920c00ac" />
 
-![image.png](attachment:a0e2c284-0a71-4ede-aea6-444fec9b8bf3:image.png)
+
 
 -Tigger events like notepad.exe and calc.exe
 
