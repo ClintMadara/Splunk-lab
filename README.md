@@ -67,5 +67,11 @@ Install Splunk universal forwarder on:
 -I first downloaded Splunk Universal Forwarder on the machine
 
 **Splunk settings**
+<img width="564" height="435" alt="Screenshot 2026-05-04 105747" src="https://github.com/user-attachments/assets/823f7837-8a1b-4a7f-af51-5179da7bc4eb" />
+
+-Leave Deployment server blank
+
+Receiving Indexer IP: The splunk server (192.168.10.3) on port 9997
+
 
 
