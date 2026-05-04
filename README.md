@@ -58,4 +58,14 @@ Username and password
 
 -Splunk has been successfull deployed the Windows server and configured as a central log receiver
 
+# 2) Sending real logs from other machines in the virtual network
+
+Install Splunk universal forwarder on:
+-Domain controller
+-Windows Machine 1
+
+-I first downloaded Splunk Universal Forwarder on the machine
+
+**Splunk settings**
+
 
