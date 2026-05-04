@@ -27,3 +27,9 @@ I built a home lab SIEM using Splunk to simulate a real-world Security Operation
 - **Ubuntu Server**
     - Ubuntu Server
     - Role:  Source of Linux logs
+
+# 1) Network Configuration
+
+- Subnet: 192.168.181.0/24
+- All machines should en the same network (Custom VMnet1)
+  <img width="745" height="385" alt="Screenshot 2026-05-04 110020" src="https://github.com/user-attachments/assets/98087336-80c7-4eff-8c2c-4e2d03db7bce" />
