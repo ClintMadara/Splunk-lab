@@ -87,7 +87,8 @@ Add “inputs.conf”  to this path “C:\Program Files\SplunkUniversalForwarder
 
 Add this config to the file
 
-![image.png](attachment:a147978d-da04-480c-9cef-9ba3d0f2f9d6:image.png)
+<img width="527" height="279" alt="Screenshot 2026-05-04 112318" src="https://github.com/user-attachments/assets/3e772cc4-21c2-4f03-8790-5ea34ff0e836" />
+
 
 ## 6. Restart Forwarder
 
@@ -96,13 +97,15 @@ Add this config to the file
 -net stop splunkforwarder
 -net start splunkforwarder
 
-![image.png](attachment:af0d812e-1f63-4745-bbb1-07134cacbd31:image.png)
+<img width="662" height="325" alt="Screenshot 2026-05-04 112820" src="https://github.com/user-attachments/assets/7b852750-3c8d-4c12-a044-db064dddd522" />
+
 
 ## Check in Splunk
 
 Type this query into the search bar to start seeing logs coming from Windows endpoint (DESKTOP-5CR0NHB)
 
-![image.png](attachment:5c167791-4b3d-47ea-b282-6cde22a93be4:image.png)
+<img width="1208" height="822" alt="Screenshot 2026-05-04 113404" src="https://github.com/user-attachments/assets/ac4c7deb-9c70-4cb4-a7fc-194f3234e4f3" />
+
 
 ## Install SYSMON
 
