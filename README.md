@@ -49,3 +49,6 @@ Username and password
 - Click **Configure receiving**
 - Click **New Receiving Port**
 - Enter: 9997
+
+<img width="1167" height="518" alt="Screenshot 2026-05-04 102851" src="https://github.com/user-attachments/assets/05856607-1f38-491a-a054-bd8e9078fec3" />
+
