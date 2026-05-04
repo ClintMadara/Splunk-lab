@@ -39,5 +39,13 @@ I built a home lab SIEM using Splunk to simulate a real-world Security Operation
 -Set credentials:
 Username and password
 
-*Once it opens it takes you to the Web UI at: https://192.168.10.2
-<img width="1164" height="797" alt="Screenshot 2026-05-04 102605" src="https://github.com/user-attachments/assets/01a6ab9b-1d9c-43d5-bb2d-a399b76e0bc2" />
+*Once it opens it takes you to the Web UI at: https://192.168.10.2 <br>
+<img width="1164" height="797" alt="Screenshot 2026-05-04 102605" src="https://github.com/user-attachments/assets/01a6ab9b-1d9c-43d5-bb2d-a399b76e0bc2" /> <br>
+
+***Splunk settings**
+
+- Go to **Settings**
+- Click **Forwarding and receiving**
+- Click **Configure receiving**
+- Click **New Receiving Port**
+- Enter: 9997
