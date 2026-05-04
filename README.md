@@ -54,7 +54,8 @@ Username and password
 *Then test to see if Splunk is alive and can generate logs by entering “index=_internal” into the search bar in order to start seeing logs.
 
 <img width="1203" height="587" alt="Screenshot 2026-05-04 103042" src="https://github.com/user-attachments/assets/759cac02-5c94-4421-b3ac-50d0755c2c01" /> <br><br>
-<img width="1194" height="783" alt="Screenshot 2026-05-04 103427" src="https://github.com/user-attachments/assets/ff0cd849-da30-48f6-bd3a-c47ab974a656" />
+<img width="1194" height="783" alt="Screenshot 2026-05-04 103427" src="https://github.com/user-attachments/assets/ff0cd849-da30-48f6-bd3a-c47ab974a656" /> <br>
 
+-Splunk has been successfull deployed the Windows server and configured as a central log receiver
 
 
