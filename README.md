@@ -74,4 +74,47 @@ Install Splunk universal forwarder on:
 Receiving Indexer IP: The splunk server (192.168.10.3) on port 9997
 
 
+## **Enable Windows Logs**
+
+Make sure that SplunkForwarder service is Running
+
+![Screenshot 2026-05-04 111033.png](attachment:0aa1457b-a43e-43f4-ac13-799dc4096668:Screenshot_2026-05-04_111033.png)
+
+## **Add Windows Event Logs**
+
+Add “inputs.conf”  to this path “C:\Program Files\SplunkUniversalForwarder\etc\system\local\”
+
+Add this config to the file
+
+![image.png](attachment:a147978d-da04-480c-9cef-9ba3d0f2f9d6:image.png)
+
+## 6. Restart Forwarder
+
+-Open CMD and run these commands to stop and start splunk forwarder 
+
+-net stop splunkforwarder
+-net start splunkforwarder
+
+![image.png](attachment:af0d812e-1f63-4745-bbb1-07134cacbd31:image.png)
+
+## Check in Splunk
+
+Type this query into the search bar to start seeing logs coming from Windows endpoint (DESKTOP-5CR0NHB)
+
+![image.png](attachment:5c167791-4b3d-47ea-b282-6cde22a93be4:image.png)
+
+## Install SYSMON
+
+Test Sysmon
+
+![image.png](attachment:bb48eb92-d82b-493f-a51a-9676a75e2bc6:image.png)
+
+-Start and stop splunkforwarder
+
+![image.png](attachment:a0e2c284-0a71-4ede-aea6-444fec9b8bf3:image.png)
+
+-Tigger events like notepad.exe and calc.exe
+
+-Run “index=* Sysmon” in order to see the events that took place
+
 
