@@ -10,3 +10,20 @@ I built a home lab SIEM using Splunk to simulate a real-world Security Operation
 - Monitor system and security events
 - Enhance detection visibility using Sysmon
 - Troubleshoot real-world ingestion and network issues
+
+  
+## Lab Components
+
+- **Splunk Server (Windows Server 2022)**
+    - IP: 192.168.181.139 (192.168.10.
+    - Role: Central SIEM (log ingestion + analysis)
+- **Windows Endpoint**
+    - IP: 192.168.181.136 (192.168.10.4)
+    - Installed Splunk Universal Forwarder
+    - Installed Sysmon
+- **Domain Controller**
+    - IP: 192.168.10.2
+    - Role: Source of active directory logs
+- **Ubuntu Server**
+    - Ubuntu Server
+    - Role:  Source of Linux logs
